@@ -1,0 +1,1 @@
+this program convert the speech into string and then write it into a file
